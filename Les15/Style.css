@@ -1,0 +1,59 @@
+header {
+  background-color: rgb(138, 193, 211);
+  }
+
+
+footer {
+  background-color: lightblue;
+}
+
+
+table {
+  background-color: lightblue;
+}
+
+form {
+  background-color: lightblue;
+}
+
+input[type="submit"]:active {
+  background-color: #4CAF50;
+}
+
+nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color: rgb(255, 0, 0);
+  background-color: rgb(138, 193, 211);
+}
+
+html {
+  background-color: rgb(214, 240, 243);
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  margin: 0 200px;
+}
+
+main p {
+  text-align: center;
+}
+
+main img {
+  display: block;
+  margin: 0 auto;
+}
+
+header,
+body,
+footer {
+  padding: 15px;
+}
+
+
+
